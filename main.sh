@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "enter"
+echo "entered"
 touch main1.txt
 echo file is created 
